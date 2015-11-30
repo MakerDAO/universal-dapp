@@ -1,3 +1,7 @@
+##### Maker on SLACK - join us 
+------
+[![Slack Status](http://slack.makerdao.com/badge.svg)](https:/slack.makerdao.com)
+
 # Universal ÐApp
 
 Demo: [http://d11e9.github.com/universal-dapp](http://d11e9.github.com/universal-dapp)
